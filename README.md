@@ -25,6 +25,6 @@ The system monitors **temperature**, **light intensity**, and **object detection
 - Python (Tkinter, ML for voice recognition)  
 
 ## 🎥 Demo
-[▶️ Watch the demo video on Google Drive](https://drive.google.com/file/d/1MtWWtWuqkeC5WX5udoTlt2kul2EG-iNO/view?usp=drive_link)
+[▶️ Watch the demo video on Google Drive](https://drive.google.com/drive/folders/13RcTXQFkTDrfZ9lf57ANn0SAzwh9cWA_)
 
 ---
